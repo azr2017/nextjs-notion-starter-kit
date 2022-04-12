@@ -9,7 +9,7 @@ export default {
   // basic site info (required)
   name: '永远森林',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: '永远森林',
+  author: 'Forest of Forever',
 
   // open graph metadata (optional)
   description: '永远森林',
