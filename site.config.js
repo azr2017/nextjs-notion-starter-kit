@@ -7,7 +7,7 @@ export default {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '永远森林',
+  name: '永远森林.com',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Forest of Forever',
 
