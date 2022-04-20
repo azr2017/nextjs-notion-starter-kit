@@ -1,13 +1,13 @@
 export default {
   // the site's root Notion page (required)
-  rootNotionPageId: '5aa6cbee45884fbcb92b809031f2756c',
+  rootNotionPageId: '5768c435ef804e31960f1d783a732902',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '永远森林.com',
+  name: '永远森林',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
   author: 'Forest of Forever',
 
