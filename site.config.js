@@ -12,7 +12,7 @@ export default {
   author: 'Forest of Forever',
 
   // open graph metadata (optional)
-  description: '永远森林',
+  description: '永远森林.com',
 
   // social usernames (optional)
   twitter: '永远森林',
